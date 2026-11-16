@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /static/js/buildtime.data.ts.timestamp-*
-
-Sitemap: https://pakeplus.com/sitemap.xml
